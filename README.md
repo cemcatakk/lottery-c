@@ -1,0 +1,2 @@
+# lottery-c
+Lottery Application
